@@ -118,7 +118,7 @@ These provide a quick overview of the job market.
 
 ## 🖼️ Dashboard Screenshot – Drill-Through Page
 <p align="center">
-  <img src="/images/job_dashboard_detail.png" width="1200" alt="Job Dashboard Drill-Through Page">
+  <img src="/images/job_dashboard_detail" width="1200" alt="Job Dashboard Drill-Through Page">
 </p>
 
 ---
